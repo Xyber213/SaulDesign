@@ -1,0 +1,262 @@
+body {
+  background-color: #222831;
+  color: white;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+  width: 80%;
+  padding: 15px 0;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  font-family: "Oswald", serif;
+  font-weight: bold;
+}
+
+.navbar ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 30px 15px;
+}
+
+.navbar ul li a {
+  font-weight: 300;
+}
+.container {
+  margin-left: 450px;
+  width: 100%;
+}
+#first-sec {
+  margin-top: 200px;
+}
+#uiux {
+  margin-bottom: 200px;
+}
+#down-button {
+  margin-bottom: 200px;
+}
+#imgs {
+  margin-bottom: 200px;
+}
+#last-sec {
+  margin-bottom: 200px;
+}
+
+.cuid {
+  font-size: 70px;
+  font-family: "Poppins", serif;
+
+  size: 96px;
+  line-height: 96px;
+}
+span {
+  color: rgb(29, 201, 201);
+}
+.hireme {
+  display: inline;
+  text-shadow: 2px 2px 5px rgb(2, 0, 0);
+}
+
+.hire-me {
+  background-color: rgb(29, 201, 201);
+  color: rgb(255, 255, 255);
+  border-radius: 50px;
+  padding: 10px 30px;
+  font-weight: bold;
+  border: none;
+}
+
+.download-cv {
+  background-color: rgba(179, 176, 176, 0.11);
+  border-radius: 80px;
+  padding: 9px 30px;
+  margin-left: 30px;
+  border: none;
+  color: white;
+  font-weight: bold;
+}
+.downloadcv {
+  display: inline;
+  text-shadow: 2px 2px 5px rgb(2, 0, 0);
+}
+
+.downloadimage {
+  margin-left: 6px;
+}
+
+.down {
+  margin-left: 900px;
+  margin-top: 150px;
+}
+.down-button {
+  background-color: #393e46;
+  border: none;
+  padding: 20px;
+}
+
+.aboutme {
+  font-size: 70px;
+  font-family: "Poppins", serif;
+
+  size: 96px;
+  line-height: 96px;
+}
+
+.lorem {
+  color: #ffffffb6;
+  height: 100px;
+  width: 400px;
+  font-weight: bold;
+}
+.sitting {
+  position: absolute;
+  margin-left: 80px;
+}
+.doodle {
+  position: absolute;
+  margin-right: 90px;
+}
+.my-recent-works {
+  font-size: 60px;
+  font-family: "Poppins", serif;
+
+  size: 40px;
+  line-height: 96px;
+  margin-top: 400px;
+}
+.all {
+  background-color: rgb(29, 201, 201);
+  color: rgb(255, 255, 255);
+  border-radius: 50px;
+  padding: 10px 30px;
+  font-weight: bold;
+  border: none;
+}
+
+.ui {
+  background-color: rgba(179, 176, 176, 0.11);
+  border-radius: 80px;
+  padding: 9px 30px;
+  margin-left: 10px;
+  border: none;
+  color: white;
+  font-weight: bold;
+}
+
+.ux {
+  background-color: rgba(179, 176, 176, 0.11);
+  border-radius: 80px;
+  padding: 9px 30px;
+  margin-left: 10px;
+  border: none;
+  color: white;
+  font-weight: bold;
+}
+
+.web-design {
+  background-color: rgba(179, 176, 176, 0.11);
+  border-radius: 80px;
+  padding: 9px 30px;
+  margin-left: 10px;
+  border: none;
+  color: white;
+  font-weight: bold;
+}
+
+.got {
+  font-size: 60px;
+  font-family: "Poppins", serif;
+
+  size: 40px;
+  line-height: 96px;
+}
+.image3 {
+  margin-left: 120px;
+}
+.two-form {
+  display: flex;
+}
+label {
+  color: #fff;
+  font-size: 14px;
+  margin-bottom: 5px;
+  display: block;
+}
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  background-color: #2d3138;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+}
+
+#email {
+  margin-left: 10px;
+}
+#message {
+  height: 280px;
+  width: 600;
+}
+.send-message {
+  background-color: rgb(29, 201, 201);
+  color: rgb(255, 255, 255);
+  border-radius: 50px;
+  padding: 10px 30px;
+  font-weight: bold;
+  border: none;
+  margin-top: 12px;
+}
+#contacts {
+  margin-left: -80px;
+  margin-right: -80px;
+}
+#contacts-two {
+  margin-left: 580px;
+}
+.buttons-div {
+  justify-content: center;
+}
+.buttons {
+  background-color: #222831;
+  border-radius: 50%;
+  height: 30px;
+  width: auto;
+  border: none;
+}
+.icons {
+  display: flex;
+  margin-left: 650px;
+  margin-top: 30px;
+}
+
+.fb,
+.insta,
+.twt,
+.yt {
+  margin: 0 30px;
+  background-color: #393e46;
+  border-radius: 50%;
+  padding: 10px;
+}
+footer {
+  text-align: right;
+  padding: 20px;
+  background-color: #f8f8f8;
+}
+.t-s {
+  text-decoration: none;
+  color: #b1acac;
+  margin: 0 10px;
+}
+.terms {
+  background-color: #222831;
+  margin-right: 120px;
+}
